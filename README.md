@@ -13,9 +13,6 @@
 或在手機上打開Chrome瀏覽器`https://192.168.0.14:8000` (192.168.0.14 是PC連網的位址）
 
 ---
-### [asr.html](https://rkuo2000.github.io/app-asr) 即時語音轉文字
-
----
 ### [alphabet.html](https://rkuo2000.github.io/app-alphabet/)
 ```
 寫出一個網頁給幼兒園學習26個英文字母，搭配單字，要能發出聲音與顯示圖片，要加上RWD
@@ -27,12 +24,26 @@
 寫出一個網頁給幼兒園學習日文字母，搭配單字，要能發出聲音與顯示圖片，要加上RWD
 ```
 
+---
 ### [alchemy.html](https://rkuo2000.github.io/app-alchemy/)
 ```
 寫一個html 以國中化學為內容，產生一個小小煉金術師實驗室，可選擇化學基本元素及顯示其圖片，選定元素後進行合成或重置，並以web3D產生動畫，
 顯示最後之合成物的分子結構，及此合成物的圖片, 加上RWD, 合成鍋畫成一個古代爐鼎，無法合成時提示可合成之元素組成
 ```
 
+---
+### [realtime_asr.html](https://rkuo2000.github.io/app-realtime_asr/) `mic`
+```
+寫一個html 做即時語音轉文字，按鍵有開始或停止辨識，清除文字，儲存文字，使用界面採Tailwind風格及響應式網頁設計
+```
+```
+加一個文字區域來累積所有辨識的文字，清除與儲存文字的按鍵也是針對這個視窗做清除或儲存的動作
+```
+```
+將開始與停止按鍵合成一個按鍵
+```
+
+---
 ### [heartbeat.html](https://rkuo2000.github.io/app-heartbeat/) `camera`
 ```
 寫出一個html 使用webcam偵測人臉，利用rPPG演算法，感測出心跳BPM及顯示心跳波形,
