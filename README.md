@@ -70,6 +70,7 @@
   *『開始模擬』：讓橫桿從傾斜30度開始，由PID回正。
   *『重置』：恢復初始狀態。
 5. 介面要求：使用繁體中文，介面要乾淨現代化（使用Tailwindd CSS渲染）。所有代碼整合在一個html檔案中。
+```
 
 ---
 ### [galaxian](https://rkuo2000.github.io/app-galaxian)
