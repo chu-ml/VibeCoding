@@ -1,6 +1,6 @@
 # Vibe Coding
 **Paper**: [Vibe Coding vs Agentic Coding](https://arxiv.org/html/2505.19443v1)<br>
-![](https://arxiv.org/html/2505.19443v1/x2.png)
+<img width="50%" height="50%" src="https://arxiv.org/html/2505.19443v1/x2.png">
 
 ---
 ## App 範例
